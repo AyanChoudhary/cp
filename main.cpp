@@ -90,7 +90,7 @@ const int maxn = 1000005;
 
 void solve() 
 {
-    cout << 'a';
+    cout << 'end';
 }
 
 signed main() {
